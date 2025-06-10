@@ -53,20 +53,6 @@ Follow these steps to see the magic happen:
 
 
 
-Clone or Download:
-
-
-
-
-
-Clone this repository: git clone https://github.com/your-username/ColorBlockChanger.git
-
-
-
-Or download the ZIP file and extract it.
-
-
-
 Open the Project:
 
 
