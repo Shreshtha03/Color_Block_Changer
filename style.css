@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+body{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    
+    
+}
+
+#colorBox{
+    border: 2px solid black;
+    background-color: lightgrey;
+    height: 250px;;
+    width: 250px;
+    margin-top: 25%;
+    margin-bottom: 30px;
+}
+
+.Allbutton{
+    display: flex;
+    gap: 10px;
+     margin-bottom: 20px;
+}
+
+button{
+
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+
+
+#greenBtn{
+    background-color: green;
+   
+}
+#orangeBtn{
+    background-color: orange;
+
+}
+
+#redBtn{
+    background-color: red;
+}
+
+#resetBtn{
+    background-color: black;
+}
+
+button:hover{
+    opacity:0.5;
+}
